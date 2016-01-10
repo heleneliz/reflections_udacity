@@ -1,0 +1,24 @@
+Reflections on Lessons 1
+How would easy access to history of files make me a more efficient programmer?
+- saving mistakes
+- saving older versions that work
+- show progress
+
+When do you want your code to be saved?
+- regular intervals: pb is that it isn't logic.
+ 
+Commits - one commit per logical change
+
+Drawbacks of saving by yourself:
+- you might forget
+- what you think is logic now might not be logic later
+
+TRACHING ACROSS FILES
+- manual commit are not logic so there is no point to save files logically
+
+How can you use the commands git log and git diff to view the history of files?
+Find commits with git log and highlight the differences with git diff
+
+How can you become more confident to make changes that could break something
+- I know I can always revert back
+
