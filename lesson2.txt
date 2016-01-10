@@ -1,1 +1,9 @@
 What happens if you initialize a repository?
+
+Staging area is a limbo of the repository - it waits there until you're sure you have made all the changes you wanted.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Never have more than one file in the staging area at once
+Never add file when you've made logical change
+
+
