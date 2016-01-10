@@ -22,3 +22,4 @@ Find commits with git log and highlight the differences with git diff
 How can you become more confident to make changes that could break something
 - I know I can always revert back
 
+-- no more reflections!
