@@ -6,4 +6,20 @@ How can you use the staging area to make sure you have one commit per logical ch
 Never have more than one file in the staging area at once
 Never add file when you've made logical change
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Experimenting new ideas when the master branch works properly already
+- To keep a working branch alive
+- different language or data.
+- master is workign branch that you can share with the public
+
+How do the diagrams help you visualize the branch structure?
+- show logical steps of changes
+- highlight the non-reachable commits
+
+Merging two branches
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches together we get what comes from both branches.
+The diagram shows that both changes are kept.
+It's a pretty dumb question.
+
 
