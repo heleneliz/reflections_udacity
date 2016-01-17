@@ -22,4 +22,5 @@ By merging two branches together we get what comes from both branches.
 The diagram shows that both changes are kept.
 It's a pretty dumb question.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Too much guessing, it could introduce a bug. 
