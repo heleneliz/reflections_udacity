@@ -5,3 +5,11 @@ To show off?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Many commits..
 Don't want to 'officilaise' changes before being ready.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: strict independant copy that is linked to the mother
+clone: strict independant copy that is not linked to the mother
+branch: strict independant copy that can be accessed from the mother
+Forks: when you want to work by yourself.
+Clone: when you want to steal someone else's work.
+Branch: when you collaborate with someone.
